@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Patar Gaan
+
+This log tracks the cryptographic history and versioning for the song **Patar Gaan** (patar-gaan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T02:39:36.088534 | `v1` | `5b6c5585271e53a678d44f4eda05bde06d858c461f0422ebc482cfe22bffb284` | `ab2acd034637f7d9a084463f2bed4d26a90d6523b74424ad591daf5df34c3f9b` | `2026-05-12_patar-gaan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
