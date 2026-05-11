@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/patar-gaan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Patar Gaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/patar-gaan/) |
+| **Get License** | [Music Rights & Licensing for Patar Gaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/patar-gaan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচিন দেশে মনের ছায়া
+> হৃদয় কাঁদে অদ্ভুত মায়া
+> পাহাড়চূড়ায় মেঘের ভেলা
+> চলছে শুধু আপন খেলা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
